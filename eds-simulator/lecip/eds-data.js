@@ -967,7 +967,9 @@ let EDSData = {
     },
     803: {
         1: [
-            'Yishun Ave 6'
+            'Yishun Ave 6',
+            'Yishun Ave 9',
+            'Yishun St 31'
         ]
     },
     804: {
